@@ -14,17 +14,13 @@ A orientação é da Dra. Laura Costa Sarkis. Ela faz parte (e é ex-coordenador
 Os arquivos estao organizados da seguinte forma:
 
 * [Dissertação](https://github.com/ed1rac/Dissertacao-Ed/blob/master/old/dissertacao-ed.pdf) ---> Texto final da dissertação. Versão em PDF.
-* [old]() --> Versão atual. Apesar do nome é a versão atual. Compila normalmente.
-* [arquivos-politicas]() --> Arquivos com as políticas (os datasets) utilizados no trabalho.
-* [Programas]() --> Os programas, notebooks e outros scripts desenvolvidos e utilizados na dissertação.
-* [imagens](https://github.com/ed1rac/Dissertacao-Ed/tree/master/old/imagens) --> Todas as imagens do texto. Estão em formato PNG
-* [bibliografias-temp]() --> Arquivos .bib temporários
-* [antiga]() --> A versão antiga. Não sei se compila. E se compilar, deve ser com erros
+* [old](https://github.com/ed1rac/dissertacao-ed.github.io/tree/main/old) --> Versão atual. Apesar do nome é a versão atual. Compila normalmente.
+* [arquivos-politicas](https://github.com/ed1rac/dissertacao-ed.github.io/tree/main/arquivos-politicas) --> Arquivos com as políticas (os datasets) utilizados no trabalho.
+* [Programas](https://github.com/ed1rac/dissertacao-ed.github.io/tree/main/Programas) --> Os programas, notebooks e outros scripts desenvolvidos e utilizados na dissertação.
+* [imagens](https://github.com/ed1rac/dissertacao-ed.github.io/tree/main/old/imagens) --> Todas as imagens do texto. Estão em formato PNG
+* [bibliografias-temp](https://github.com/ed1rac/dissertacao-ed.github.io/tree/main/bibliografias-temp) --> Arquivos .bib temporários
 
 ---
-## Pré-requisitos
-> Não há pré-requisitos
-
 ### Softwares utilizados
 Para produzir o texto e conduzir os experimentos os seguintes softwares/serviços foram utilizados:
 * TexStudio
@@ -64,6 +60,9 @@ Eu uso o Git para fazer o vesionamento. Para outras versões, [clique aqui](http
 #### Endereços Profissionais:
 *	Centro Universitário UNINORTE. Alameda Hungria, 200. Jardim Europa II. 69915497 - Rio Branco, AC – Brasil. Telefone: (68) 33027070. URL da Homepage: http://www.uninorteac.com.br
 *	Superintendência da Polícia Federal no Acre. Rodovia BR 364, 3501 - Portal da Amazônia, Rio Branco - AC, 69915-630. Telefone: (68) 3212-1211. URL da Homepage: http://www.pf.gov.br/institucional/unidades/superintendencias-e-delegacias/acre
+
+## Pré-requisitos
+> Não há pré-requisitos
 
 ## Licença
 Este projeto está licenciado sob a Licença MIT
