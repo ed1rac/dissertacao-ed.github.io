@@ -19,6 +19,7 @@ Os arquivos estao organizados da seguinte forma:
 * [Programas]() --> Os programas, notebooks e outros scripts desenvolvidos e utilizados na dissertação.
 * [imagens](https://github.com/ed1rac/Dissertacao-Ed/tree/master/old/imagens) --> Todas as imagens do texto. Estão em formato PNG
 * [bibliografias-temp]() --> Arquivos .bib temporários
+* [antiga]() --> A versão antiga. Não sei se compila. E se compilar, deve ser com erros
 
 ---
 ## Pré-requisitos
